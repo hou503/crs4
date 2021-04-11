@@ -1,6 +1,23 @@
 
 module.exports = {
   datas: [
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/3/",
+    "http://www.tshciewe.xyz/page/4/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/3/",
+    "http://www.tshciewe.xyz/page/4/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/3/",
+    "http://www.tshciewe.xyz/page/4/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/2/",
+    "http://www.tshciewe.xyz/page/3/",
+    "http://www.tshciewe.xyz/page/4/",
+    "http://www.tshciewe.xyz/page/2/",
+
     "http://yunfeihulai.com/page/2/",
     "http://yunfeihulai.com/page/3/",
     "http://yunfeihulai.com/page/4/",
